@@ -8,21 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		DC58E48C14DC70CF006B16E2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC58E48B14DC70CF006B16E2 /* Foundation.framework */; };
-		DC58E4AB14DC7176006B16E2 /* DDAbstractDatabaseLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49B14DC7176006B16E2 /* DDAbstractDatabaseLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4AB14DC7176006B16E2 /* DDAbstractDatabaseLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49B14DC7176006B16E2 /* DDAbstractDatabaseLogger.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4AC14DC7176006B16E2 /* DDAbstractDatabaseLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E49C14DC7176006B16E2 /* DDAbstractDatabaseLogger.m */; };
-		DC58E4AD14DC7176006B16E2 /* DDASLLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49D14DC7176006B16E2 /* DDASLLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4AD14DC7176006B16E2 /* DDASLLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49D14DC7176006B16E2 /* DDASLLogger.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4AE14DC7176006B16E2 /* DDASLLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E49E14DC7176006B16E2 /* DDASLLogger.m */; };
-		DC58E4AF14DC7176006B16E2 /* DDFileLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49F14DC7176006B16E2 /* DDFileLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4AF14DC7176006B16E2 /* DDFileLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49F14DC7176006B16E2 /* DDFileLogger.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4B014DC7176006B16E2 /* DDFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E4A014DC7176006B16E2 /* DDFileLogger.m */; };
-		DC58E4B114DC7176006B16E2 /* DDLog.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A114DC7176006B16E2 /* DDLog.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4B114DC7176006B16E2 /* DDLog.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A114DC7176006B16E2 /* DDLog.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4B214DC7176006B16E2 /* DDLog.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E4A214DC7176006B16E2 /* DDLog.m */; };
-		DC58E4B314DC7176006B16E2 /* DDTTYLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A314DC7176006B16E2 /* DDTTYLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4B314DC7176006B16E2 /* DDTTYLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A314DC7176006B16E2 /* DDTTYLogger.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4B414DC7176006B16E2 /* DDTTYLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E4A414DC7176006B16E2 /* DDTTYLogger.m */; };
-		DC58E4B514DC7176006B16E2 /* ContextFilterLogFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A614DC7176006B16E2 /* ContextFilterLogFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4B514DC7176006B16E2 /* ContextFilterLogFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A614DC7176006B16E2 /* ContextFilterLogFormatter.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4B614DC7176006B16E2 /* ContextFilterLogFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E4A714DC7176006B16E2 /* ContextFilterLogFormatter.m */; };
-		DC58E4B714DC7176006B16E2 /* DispatchQueueLogFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A814DC7176006B16E2 /* DispatchQueueLogFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4B714DC7176006B16E2 /* DispatchQueueLogFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E4A814DC7176006B16E2 /* DispatchQueueLogFormatter.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4B814DC7176006B16E2 /* DispatchQueueLogFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = DC58E4A914DC7176006B16E2 /* DispatchQueueLogFormatter.m */; };
-		DC58E4B914DC727F006B16E2 /* Lumberjack.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49014DC70CF006B16E2 /* Lumberjack.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC58E4B914DC727F006B16E2 /* Lumberjack.h in Headers */ = {isa = PBXBuildFile; fileRef = DC58E49014DC70CF006B16E2 /* Lumberjack.h */; settings = {ATTRIBUTES = (); }; };
 		DC58E4C414DC8BE2006B16E2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC58E4C314DC8BE2006B16E2 /* UIKit.framework */; };
 		DC58E4C514DC8BE2006B16E2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC58E48B14DC70CF006B16E2 /* Foundation.framework */; };
 		DC58E4C714DC8BE2006B16E2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC58E4C614DC8BE2006B16E2 /* CoreGraphics.framework */; };
